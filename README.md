@@ -1,16 +1,31 @@
-## Hi there 👋
+### 👋 Hello World, I'm Ajisaka Kamandanu!
 
-<!--
-**thisismeaji/thisismeaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an enthusiastic **Frontend Developer in the Making** with a knack for turning ideas into reality through code. I love crafting visually stunning and user-friendly web experiences using **HTML, CSS, and JavaScript**. Currently on a journey to sharpen my skills and build an amazing portfolio!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 What I’m All About:
+- 🌟 Creating clean, responsive, and interactive websites.
+- 📚 Continuously learning to master the art of **Frontend Development**.
+- 🎬 Movies are my jam — I find creative inspiration in cinematic storytelling!
+
+---
+
+### 🌱 Current Focus:
+- 🚀 Diving deep into **JavaScript** magic and exploring modern frontend frameworks.
+- 🌍 Looking for like-minded developers to collaborate and create something awesome!
+
+---
+
+### 🌐 Let’s Connect:
+- 📸 Follow me on Instagram: [@thisisme_aji](https://instagram.com/thisisme_aji)
+
+---
+
+### 📌 Fun Fact:
+When I'm not coding or binge-watching movies, you’ll find me exploring the latest trends in web development!
+
+---
+
+### 🚧 Projects Coming Soon!
+Stay tuned for some cool projects that I’m working on! 🚀
