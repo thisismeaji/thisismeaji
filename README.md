@@ -1,1 +1,1 @@
-Aaaaaa aku terkena impostor Syndrome
+Aaaaaa I’ve got impostor syndrome
